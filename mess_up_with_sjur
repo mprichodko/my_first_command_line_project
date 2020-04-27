@@ -10,5 +10,12 @@ Damn it's really working!!!😍😍
 
 Ok so what now? When it's a git file??
 
+<<<<<<< HEAD
 Oh my dear... Now I'm on my new branch named "branchita" 😂
+=======
+Gonna do the commit on master branch and then merge branches...
+Gosh I'm starting to talk borring coding stuff 🙈
+>>>>>>> master
+
+Do I technically need to edit anything to resolve that conflict? Let's seeeeeeee
 
